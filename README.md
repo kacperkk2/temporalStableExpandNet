@@ -39,3 +39,12 @@ Loss at the end of model name indicates loss function used as stability term.
 - baseRec_tuningStab_L2Loss: fine tuning with stability term (L2 loss used)
 - baseRec_tuningStab_recLoss: fine tuning with stability term (expandNet loss used)
 - baseRec_tuningStab_ssimLoss: fine tuning with stability term (ssim used)
+
+## Useful links
+Projects used to compare:
+- https://github.com/marcelsan/Deep-HdrReconstruction
+- https://github.com/gabrieleilertsen/hdrcnn
+
+Data used for training (license of those data sets allows to use, share, modify etc. - Creative Commons):
+- https://polyhaven.com/hdris (possible to download all data with polyhaven api)
+- https://hdrplusdata.org/dataset.html (raw photos .dng transformed to .exr with imagemagick - https://imagemagick.org/index.php)
