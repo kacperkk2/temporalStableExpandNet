@@ -2,7 +2,7 @@
 This project extends ExpandNet project (https://github.com/dmarnerides/hdr-expandnet) - net for HDR images reconstruction.  
 Using original net model for reconstructing video results in unstable video (flickering occurs).  
 
-Temporal stable ExpandNet project implements solution improving stability of reconstructed videos by adding regularization term to loss function (https://arxiv.org/abs/1902.10424).https://arxiv.org/abs/1902.10424
+Temporal stable ExpandNet project implements solution improving stability of reconstructed videos by adding regularization term to loss function (https://arxiv.org/abs/1902.10424).
 
 ## Requirements
 Virtual environment usage is recommended.
