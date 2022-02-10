@@ -48,3 +48,6 @@ Projects used to compare:
 Data used for training (license of those data sets allows to use, share, modify etc. - Creative Commons):
 - https://polyhaven.com/hdris (possible to download all data with polyhaven api)
 - https://hdrplusdata.org/dataset.html (raw photos .dng transformed to .exr with imagemagick - https://imagemagick.org/index.php)
+
+Hdr online viewer:
+- https://viewer.openhdr.org/
